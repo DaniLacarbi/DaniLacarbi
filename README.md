@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 <!--
 **DaniLacarbi/DaniLacarbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there! I'm Daniele L., and I am currently studying Computer Science at the University of Trento. I am still new to programming but I hope I'll eventually help develop useful tools for everyone. I am interested in mobile and web development and gaining a deeper understanding of peculiar topics such as machine learning and cryptography.
+🧍 Hi there! I'm Daniele L.
+
+🎓 I am currently studying Computer Science at the University of Trento. 
+
+🌱 I am still new to programming, but I hope I'll eventually help develop useful tools for everyone. 
+
+💻 I am interested in mobile and web development and gaining a deeper understanding of topics such as machine learning and cryptography.
+
+🔗 Here are my other profiles, in case you were interested: https://gravatar.com/danilacarbi
